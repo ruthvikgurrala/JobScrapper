@@ -42,33 +42,34 @@ export default function Navbar() {
         </div>
       </div>
       
-      {user ? (
-        <div className="flex items-center gap-4">
-          <button 
-            onClick={() => setShowTerminal(!showTerminal)}
-            className={`text-xs px-3 py-1.5 border rounded flex items-center gap-2 transition-colors ${showTerminal ? 'bg-[#00ff00] text-black border-[#00ff00]' : 'bg-[#1a1a1a] text-[#00ff00] border-[#333] hover:border-[#00ff00]'}`}
-          >
-            <span className="font-mono">{">_"}</span>
-            Live Terminal
-          </button>
-          <span className="text-xs text-gray-400 border-l border-[#333] pl-4">{user.email}</span>
-          <button 
-            onClick={() => signOut(auth)}
-            className="text-xs px-3 py-1.5 bg-[#252525] border border-[#3a3a3a] rounded hover:border-[#555555] transition-colors"
-          >
-            Sign out
-          </button>
-        </div>
-      ) : (
-        <div className="flex items-center gap-4">
+      <div className="flex items-center gap-4">
+        <button 
+          onClick={() => setShowTerminal(!showTerminal)}
+          className={`text-xs px-3 py-1.5 border rounded flex items-center gap-2 transition-colors ${showTerminal ? 'bg-[#00ff00] text-black border-[#00ff00]' : 'bg-[#1a1a1a] text-[#00ff00] border-[#333] hover:border-[#00ff00]'}`}
+        >
+          <span className="font-mono">{">_"}</span>
+          Live Terminal
+        </button>
+
+        {user ? (
+          <>
+            <span className="text-xs text-gray-400 border-l border-[#333] pl-4">{user.email}</span>
+            <button 
+              onClick={() => signOut(auth)}
+              className="text-xs px-3 py-1.5 bg-[#252525] border border-[#3a3a3a] rounded hover:border-[#555555] transition-colors"
+            >
+              Sign out
+            </button>
+          </>
+        ) : (
           <Link 
             href="/login"
             className="text-xs px-4 py-1.5 bg-[#4fa3f7] text-[#121212] font-semibold rounded hover:bg-[#3d8ad9] transition-colors"
           >
             Login / Register
           </Link>
-        </div>
-      )}
+        )}
+      </div>
       
       {showTerminal && <LiveTerminal onClose={() => setShowTerminal(false)} />}
     </nav>
