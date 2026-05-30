@@ -20,6 +20,17 @@ export default function Dashboard() {
   const [lastRefreshed, setLastRefreshed] = useState<string>("");
   const [sortOption, setSortOption] = useState<SortOption>('TOTAL_DESC');
 
+  useEffect(() => {
+    const savedSort = localStorage.getItem("dashboardSortOption") as SortOption | null;
+    if (savedSort) {
+      setSortOption(savedSort);
+    }
+  }, []);
+
+  useEffect(() => {
+    localStorage.setItem("dashboardSortOption", sortOption);
+  }, [sortOption]);
+
   const fetchStats = async (forceRefresh = false) => {
     setLoading(true);
     
