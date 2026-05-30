@@ -93,7 +93,7 @@ export default function CompanyJobsPage({ params }: { params: Promise<{ name: st
       ) : (
         <div className="grid gap-4">
           {filteredJobs.slice(0, visibleCount).map((job) => (
-            <JobCard key={job.id} job={job} hideApplyButton={true} />
+            <JobCard key={job.id} job={job} />
           ))}
           {filteredJobs.length > visibleCount && (
             <button

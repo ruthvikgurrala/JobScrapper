@@ -21,6 +21,23 @@ export default function JobFeed() {
   const [lastRefreshed, setLastRefreshed] = useState<string>("");
 
   useEffect(() => {
+    const savedMin = localStorage.getItem("filterMinYoe");
+    if (savedMin !== null) setMinYoe(savedMin === "" ? "" : Number(savedMin));
+
+    const savedMax = localStorage.getItem("filterMaxYoe");
+    if (savedMax !== null) setMaxYoe(savedMax === "" ? "" : Number(savedMax));
+
+    const savedUnspecified = localStorage.getItem("filterUnspecified");
+    if (savedUnspecified !== null) setIncludeUnspecified(savedUnspecified === "true");
+  }, []);
+
+  useEffect(() => {
+    localStorage.setItem("filterMinYoe", minYoe.toString());
+    localStorage.setItem("filterMaxYoe", maxYoe.toString());
+    localStorage.setItem("filterUnspecified", includeUnspecified.toString());
+  }, [minYoe, maxYoe, includeUnspecified]);
+
+  useEffect(() => {
     const fetchCachedJobs = async () => {
       setLoading(true);
       const cached = localStorage.getItem("jobFeedData");
