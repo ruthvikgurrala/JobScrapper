@@ -12,7 +12,7 @@ async function testStealth() {
     Object.defineProperty(navigator, 'webdriver', { get: () => false });
     Object.defineProperty(navigator, 'plugins', { get: () => [1, 2, 3, 4, 5] });
     Object.defineProperty(navigator, 'languages', { get: () => ['en-US', 'en'] });
-    window.chrome = { runtime: {} } as any;
+    (window as any).chrome = { runtime: {} } as any;
   });
 
   const page = await context.newPage();
