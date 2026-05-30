@@ -20,6 +20,8 @@ export default function JobFeed() {
   
   const [lastRefreshed, setLastRefreshed] = useState<string>("");
 
+  const [isMounted, setIsMounted] = useState(false);
+
   useEffect(() => {
     const savedMin = localStorage.getItem("filterMinYoe");
     if (savedMin !== null) setMinYoe(savedMin === "" ? "" : Number(savedMin));
@@ -29,13 +31,17 @@ export default function JobFeed() {
 
     const savedUnspecified = localStorage.getItem("filterUnspecified");
     if (savedUnspecified !== null) setIncludeUnspecified(savedUnspecified === "true");
+    
+    setIsMounted(true);
   }, []);
 
   useEffect(() => {
-    localStorage.setItem("filterMinYoe", minYoe.toString());
-    localStorage.setItem("filterMaxYoe", maxYoe.toString());
-    localStorage.setItem("filterUnspecified", includeUnspecified.toString());
-  }, [minYoe, maxYoe, includeUnspecified]);
+    if (isMounted) {
+      localStorage.setItem("filterMinYoe", minYoe.toString());
+      localStorage.setItem("filterMaxYoe", maxYoe.toString());
+      localStorage.setItem("filterUnspecified", includeUnspecified.toString());
+    }
+  }, [minYoe, maxYoe, includeUnspecified, isMounted]);
 
   useEffect(() => {
     const fetchCachedJobs = async () => {

@@ -20,16 +20,21 @@ export default function Dashboard() {
   const [lastRefreshed, setLastRefreshed] = useState<string>("");
   const [sortOption, setSortOption] = useState<SortOption>('TOTAL_DESC');
 
+  const [isMounted, setIsMounted] = useState(false);
+
   useEffect(() => {
     const savedSort = localStorage.getItem("dashboardSortOption") as SortOption | null;
     if (savedSort) {
       setSortOption(savedSort);
     }
+    setIsMounted(true);
   }, []);
 
   useEffect(() => {
-    localStorage.setItem("dashboardSortOption", sortOption);
-  }, [sortOption]);
+    if (isMounted) {
+      localStorage.setItem("dashboardSortOption", sortOption);
+    }
+  }, [sortOption, isMounted]);
 
   const fetchStats = async (forceRefresh = false) => {
     setLoading(true);
