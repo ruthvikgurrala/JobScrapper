@@ -1,0 +1,195 @@
+upgrad   : https://upgrad.darwinbox.in/ms/candidatev2/main/careers/allJobs
+vedantu  : https://www.linkedin.com/jobs/search/?currentJobId=4399637113&f_C=3139796&geoId=92000000&origin=COMPANY_PAGE_JOBS_CLUSTER_EXPANSION&originToLandingJobPostings=4399637113%2C4394757689%2C4400750377%2C4392857261%2C4389532762%2C4389534337%2C4388933368%2C4389567642%2C4397271687
+cultfit :   https://careers.cult.fit/cult/jobslist
+physicswallah : https://pwhr.darwinbox.in/ms/candidatev2/a62d7a6e288992/careers/allJobs
+unacademy  : https://unacademy.darwinbox.in/ms/candidatev2/main/careers/allJobs
+shadowfax : https://shadowfax.in/careers
+pristyncare : didnt found
+acko : https://www.acko.com/careers/jobs/    (has dropdowns no search bar)
+practo : https://practo.app.param.ai/jobs/   (failed to fetch, maybe server problem)
+slice : https://slice.bank.in/careers/open-positions
+xpressbees : https://www.xpressbees.com/career
+magicpin : https://magicpin.in/careers (failed to fetch)
+fibe : https://www.fibe.in/careers/ (they gave job cards in between matter about them)
+rapido : https://rapido.darwinbox.in/ms/candidatev2/main/careers/home
+porter : https://porter.darwinbox.in/ms/candidatev2/main/careers/home
+shiprocket : https://careers.shiprocket.in/?_gl=1*rn5hvt*_gcl_au*MjQ1NTgxMjkzLjE3NzkwMjQwMjc. (they gave them at bottom of the page with engineering filter) 
+tata1mg : https://1mg.darwinbox.in/ms/candidatev2/main/careers/allJobs
+mygate : https://mygate.darwinbox.in/ms/candidatev2/main/careers/home 
+purplle : https://purplle.turbohire.co/dashboardv2?orgId=3ed17e54-f66f-4ade-90b9-ef064dc6fbd6&type=0
+mamaearth : https://www.linkedin.com/jobs/mamaearth-jobs/?currentJobId=4395754896&originalSubdomain=in
+medibuddy : https://medibuddy.hire.trakstar.com/
+pocketfm : https://www.linkedin.com/jobs/pocket-fm-jobs/?currentJobId=4411594269&originalSubdomain=in
+firstcry : https://www.firstcry.com/careers/?srsltid=AfmBOoo6qFpi_omla37ofolGxwzg8Fstu9oaDUBMSmte_zH20uRZ32w_ (there is nothing here)
+freo : https://freo.money/careers/ (they asked me to send resume and details form ive sent it)
+pepperfry : https://www.pepperfry.com/pages/careers.html?type=footer (have job cards)
+healthify : https://healthify.darwinbox.in/ms/candidatev2/main/careers/home (they gave them at bottom of the page with engineering filter)
+apollo247 : https://cgs.fa.ap2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/
+softsuave : https://www.softsuave.com/career-overview
+esparkbiz : https://www.esparkinfo.com/about/career
+oyorooms : https://www.linkedin.com/company/oyo-rooms/jobs/
+pharmeasy : https://myhr.darwinbox.in/ms/candidatev2/main/careers/allJobs
+blackbuck : email@blackbuck.com
+nobroker : https://www.linkedin.com/jobs/search/?currentJobId=4415076028&f_C=9226228
+mudrex : https://mudrex.freshteam.com/jobs
+countrydelight : https://www.linkedin.com/jobs/country-delight-jobs/?currentJobId=4412664057&originalSubdomain=in
+licious : https://licious.darwinbox.in/ms/candidatev2/main/careers/allJobs\
+dailyhunt : no careers page
+classplus : https://classplusapp.com/careers/open-role (they have drop down there we need to select engineering)
+dell : https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers
+delhivery : https://delhivery.darwinbox.in/ms/candidatev2/main/careers/allJobs
+ola : https://olacareers.turbohire.co/careerpage/e0c1eb37-eb7a-4ca4-bcc5-d59ce4ce9212
+godigit : https://godigit.darwinbox.in/ms/candidatev2/a651fdd75445d1/careers/allJobs
+locus : https://locus.freshteam.com/jobs
+livspace : https://careers.livspace.com/livspace/
+rebelfoods : https://www.rebelfoods.com/join-our-team (To apply for jobs at Rebel Foods, kindly email us at careers@rebelfoods.com)
+ultrahuman : https://ultrahuman.zohorecruit.in/jobs/Careers?_gl=1*1diyg53*_gcl_au*NTg4ODMyODA4LjE3NzkwMjY1MDk.
+surveysparrow : https://surveysparrow.keka.com/careers
+jio : https://careers.jio.com/
+siemens : https://jobs.siemens.com/en_US/externaljobs/SearchJobs
+Redio AI : glassdoor
+catterpillar: irrelevant and not in india
+lenskart : https://ainterviews.com/job_board/lenskart_ho/#open-positions
+zerodha : https://careers.zerodha.com/
+exotel : https://exotel.com/about-us/careers/
+capillary : https://www.capillarytech.com/careers/
+axio : https://axiofinance.darwinbox.in/ms/candidatev2/main/careers/allJobs
+spinzone : https://spinzone.darwinbox.in/ms/candidatev2/main/careers/allJobs
+cars24 : https://careers.cars24.com/
+m2pfintech : https://careers.m2pfintech.com/view-jobs/
+gnani.ai : https://careers.gnani.ai/ 
+ajio : messy career integrated with reliance
+bookmyshow : https://in.bookmyshow.com/careers/job-listing
+epam : https://careers.epam.com/en/jobs/india
+persistent systems : https://careers.persistent.com/explore-opportunities
+sanofi : https://jobs.sanofi.com/en/search-jobs
+bristol myers squibb : https://careers.bms.com/
+bosch : https://jobs.bosch.com/en/?pages=1&country=in
+ford : https://www.careers.ford.com/search-jobs?orgIds=48560&ac=9255664
+ibm : https://www.ibm.com/in-en/careers/search
+nykaa : https://careers.nykaa.com/
+urban company : https://careers.urbancompany.com/jobs?department=Engineering%20%26%20Data
+upstox : https://upstox.com/careers/
+leadsquared : https://leadsquaredhrms.darwinbox.in/ms/candidatev2/main/careers/allJobs
+webengage : https://webengage.com/current-openings/#JobOpenings
+uniphore : https://uniphore.wd503.myworkdayjobs.com/Uniphore
+zetwerk : https://zetwerk.sensehq.com/careers/jobs?page=0&pageSize=10&department=&location=&title=&sortBy=&orderBy=ASC&minExp=0&maxExp=100&jobType=&workplaceType=
+niyo : https://niyo.keka.com/careers
+kreditbee : https://www.kreditbee.in/careers
+fi money : https://jobs.lever.co/epifi
+open money : https://open.money/careers
+signzy : https://www.signzy.com/careers
+facilio : https://facilio.com/careers/#openings
+madstreetden : https://www.madstreetden.com/careers/
+nazaara : no proper career site
+thomsonreuters : https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site
+mcdonalds : https://careers.mcdonalds.com/jobs?filter%5Bcountry%5D%5B0%5D=IN
+impactanalytics : https://www.impactanalytics.ai/careers#jobs
+novartis : https://www.novartis.com/careers/career-search?search_api_fulltext=&field_job_posted_date=All&op=Submit
+volksowagon : no proper career site
+niramai : https://niramai.com/careers/
+texasinstruments : https://careers.ti.com/en/sites/CX/jobs?location=India&locationId=300000000361484&locationLevel=country&mode=location
+paytm : http://jobs.lever.co/paytm
+policybazaar : https://www.policybazaar.com/careers/
+bharatpe : https://bharatpe.darwinbox.in/ms/candidatev2/main/careers/allJobs
+mobile premier league : not there
+cashfree : https://www.cashfree.com/careers/
+payu : https://corporate.payu.com/job-board/ (no openings in india rightnow)
+pinelabs : https://www.pinelabs.com/careers/open-jobs
+agora(100ms) : https://jobs.lever.co/100ms
+jar : https://www.myjar.app/careers#open-roles
+onecard : https://www.fplabs.tech/careers/
+perfios.ai : https://perfios.darwinbox.in/ms/candidatev2/main/careers/allJobs
+kissflow : https://careers.kissflow.com/#viewjobs
+rocketlane : https://careers.kula.ai/rocketlane
+winzo: no proper career site
+infor : https://infor.pinpointhq.com/
+bmc : https://jobs.bmc.com/Careers/SearchJobs/?listFilterMode=1&1274=9406&1274_format=1347&intcmp=JobsByCountry
+costco : https://careers.costco.com/jobs?stretchUnit=MILES&stretch=10&location=India&woe=12&regionCode=IN
+lilly : https://careers.lilly.com/us/en/search-results?keywords=
+haptik : https://haptik.freshteam.com/jobs?__hstc=233858945.0eecb6901547789a76a8150b48139b47.1650872173205.1656650197197.1656654941825.85&__hssc=233858945.2.1656654941825&__hsfp=&hsCtaTracking=be1d0f38-8578-466c-a65e-7dba125d958a%7C852c3dbe-26c9-4a01-a174-ad02a06686d9&_gl=1*1lgi0yc*_gcl_au*MjEwNjgzMDMyOC4xNzc5MDMwNzE1*_ga*NzA0MDk3MzMuMTc3OTAzMDcwNw..*_ga_TL7ZLD0W5B*czE3NzkwMzA3MDYkbzEkZzAkdDE3NzkwMzA3MDYkajYwJGwwJGgw
+walmart : https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal?locationCountry=c4f78be1a8f14da0ab49ce1162348a5e
+intel : https://intel.wd1.myworkdayjobs.com/External
+zepto : https://zepto.talentrecruit.com/career-page
+games24x7 : not accessible
+darwinbox : https://dbx.darwinbox.in/ms/candidatev2/main/careers/allJobs
+observe.ai : https://www.observe.ai/careers
+sarvam.ai : https://www.sarvam.ai/careers#positions
+gupshup.ai : whatsapp
+turing : is a careers website
+jupiter money: https://jupiter.keka.com/careers
+yellow.ai : https://yellow.ai/career/
+krutrim : https://www.linkedin.com/company/krutrim/jobs/
+mercedes benz : https://jobs.mercedes-benz.com/en?TargetGroup.Code=3
+rephrase.ai : website unreachable
+sap: https://jobs.sap.com/search/?createNewAlert=false&q=&locationsearch=india&optionsFacetsDD_department=&optionsFacetsDD_customfield3=&optionsFacetsDD_country=
+workday: https://workday.wd5.myworkdayjobs.com/Workday
+paypal: https://paypal.eightfold.ai/careers?start=0&location=india&pid=274919648411&sort_by=distance&filter_include_remote=1
+american express : https://careers.americanexpress.com/en/sites/CX_1/jobs?intlink=us-amex-career-en-us-search
+target: https://corporate.target.com/careers/job-search?currentPage=1&schedule=Full-time&country=India
+moengage: https://moengage.hire.trakstar.com/
+clevertap : https://clevertap.com/current-openings/ 
+icertis : https://iaaviz.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Jobs-at-Icertis/jobs?mode=location
+smallcase : https://app.pyjamahr.com/careers?company=smallcase&company_uuid=2615584222
+vanguard : https://www.vanguardjobs.com/job-search-results/?location=IN%2C%20Telangana%2C%20Hyderabad
+wellsfargo : https://www.wellsfargojobs.com/en/jobs/?search=&country=
+dutsche bank : https://careers.db.com/professionals/search-roles/index?language_id=1#/professional/results/?searchType=divisionProf
+microsoft : https://apply.careers.microsoft.com/careers?query=&location=&start=0
+oracle : https://careers.oracle.com/en/sites/jobsearch/jobs?lastSelectedFacet=CATEGORIES&location=India&locationId=300000000106947&locationLevel=country&mode=location&selectedCategoriesFacet=300000001917356
+broadcom : https://broadcom.wd1.myworkdayjobs.com/External_Career?locations=6d1be12dc134103be580f2ed396f3bdf
+visa : https://visa.wd5.myworkdayjobs.com/Visa
+swiggy : https://careers.swiggy.com/#/careers?career_page_category=Technology
+zomato,blinkit : https://www.eternal.com/careers/ (this is for both zomato and blinkit only processed through referal only which is given in the career page)
+phonepe : https://www.phonepe.com/careers/job-openings/
+groww : https://job-boards.eu.greenhouse.io/groww
+chargebee : https://www.linkedin.com/company/chargebee/jobs/?originalSubdomain=in
+servicenow : https://careers.servicenow.com/jobs/?search=&country=India&pagesize=20#results 
+cisco : https://careers.cisco.com/global/en/search-results
+mastercard : https://careers.mastercard.com/us/en/search-results
+whatfix : https://whatfix101.hire.trakstar.com/?loc=&rsu=mile&country=India&q=&limit=25#content
+zohocorp : https://careers.zohocorp.com/jobs/Careers
+inmobi : https://www.inmobi.com/company/careers?country=india
+glance : https://glance.com/careers#open-positions
+nutanix : https://careers.nutanix.com/en/jobs/?search=&country=India&pagesize=20#results
+appliedintuition : https://www.appliedintuition.com/careers
+jpmc : https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs?location=India&locationId=300000000289360&locationLevel=country&mode=location
+harness : https://www.harness.io/company/jobs
+salesforce : https://www.salesforce.com/company/careers/jobs/?country=India&page=1
+intuit : https://jobs.intuit.com/search-jobs/India/27595/2/1269750/22/79/0/2
+qualcomm : https://careers.qualcomm.com/careers?start=0&location=india&pid=446718418965&sort_by=match&filter_include_remote=0
+meesho : https://www.meesho.io/jobs?&t=Business%20Analytics,Backend,QA,Infrastructure,CTO%20Office,Data%20Engineering,Data%20Science,Demand,Frontend,Supply,Security
+myntra : https://jobs.myntra.com/home
+freshworks : https://careers.smartrecruiters.com/Freshworks
+sprinklr : https://sprinklr.wd1.myworkdayjobs.com/careers?_gl=1*1i1giiy*_gcl_au*MzU2NzE1NTgzLjE3NzkwOTM0Mzc.*_ga*OTI0MTA5ODk3LjE3NzkwOTM0NzE.*_ga_GD43S3NXZ0*czE3NzkwOTM0NzAkbzEkZzAkdDE3NzkwOTM0NzIkajU4JGwwJGgw
+druva : https://www.druva.com/why-druva/explore/careers/departments/engineering
+promptql: https://jobs.gem.com/promptql
+sharechat: no careerpage for software  https://sharechat.com/careers
+disney : https://www.disneycareers.com/en/search-jobs/India/391/2/1269750/22/79/100/2
+browserstack: https://browserstack.wd3.myworkdayjobs.com/External
+tekion: https://tekion.com/job-openings?country=india
+databricks : https://www.databricks.com/company/careers/open-positions?department=all&location=India
+datadoghq : https://careers.datadoghq.com/all-jobs/?location_APAC%5B0%5D=Mumbai&location_APAC%5B1%5D=Delhi&location_APAC%5B2%5D=Bangalore
+elastic : https://jobs.elastic.co/jobs/country/india?size=n_20_n
+cohesity : https://www.cohesity.com/careers/open-positions/
+docker : https://www.docker.com/career-openings/
+zscaler : https://www.zscaler.com/careers/search?locations=India&page=1
+atlassian : https://www.atlassian.com/company/careers/all-jobs?team=&location=India&search=
+goldmansachs : https://higher.gs.com/results?LOCATION=Bengaluru|Hyderabad|Mumbai&page=1&sort=RELEVANCE
+razorpay : https://razorpay.com/jobs/jobs-all/?location=all&department=
+dream 11 : no carrers page
+postman : https://www.postman.com/company/careers/open-positions/
+confluent : https://careers.confluent.io/jobs/india
+rubrik : https://www.rubrik.com/company/careers/departments/engineering
+gitlab : https://about.gitlab.com/jobs/all-jobs/
+adobe : https://careers.adobe.com/us/en/search-results?qcountry=India   
+linkedin : https://www.linkedin.com/company/linkedin/jobs/?src=direct%2Fnone&veh=direct%2Fnone
+paloalto : https://jobs.paloaltonetworks.com/en/search-jobs/India/India/47263/1/2/1269750/22/79/50/2
+amazon : https://www.amazon.jobs/en/search?base_query=&loc_query=India&country=IND
+crowdstrike : https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers?locationCountry=c4f78be1a8f14da0ab49ce1162348a5e
+cred : https://careers.cred.club/openings
+juspay : https://juspay.io/careers
+uber : https://www.uber.com/in/en/careers/list/?location=IND-Karn%C4%81taka-Bangalore&location=IND-Telang%C4%81na-Hyderabad&location=IND-Mah%C4%81r%C4%81shtra-Mumbai
+flipkart : https://flipkart.turbohire.co/dashboardv2?orgId=4d757ba0-3d57-448a-b82c-238ed87ac90f&type=0
+meta : https://www.metacareers.com/jobsearch?offices[0]=Mumbai%2C%20India&offices[1]=Gurgaon%2C%20India&offices[2]=Bangalore%2C%20India&offices[3]=Hyderabad%2C%20India&offices[4]=New%20Delhi%2C%20India
+google : https://www.google.com/about/careers/applications/jobs/results/?q&hl=en-GB&location=India
+nvidia : https://jobs.nvidia.com/careers?utm_source=sp_auto_dm&utm_referrer=sp_auto_dm&start=0&location=india&pid=893392494148&sort_by=distance&filter_include_remote=1
